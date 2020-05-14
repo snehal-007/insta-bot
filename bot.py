@@ -8,6 +8,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 import random
 
+# download chromedriver as yr chrome version
 path = "C:\Program Files (x86)\chromedriver.exe"
 
 driver = webdriver.Chrome(path)
